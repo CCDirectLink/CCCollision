@@ -1,4 +1,7 @@
 {
-	"name": "collision",
-	"main": "mod.js"
+  "name": "collision",
+  "version": "0.1.0",
+  "module": true,
+  "prestart": "prestart.js",
+  "main": "poststart.js"
 }
